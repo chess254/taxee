@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 .setDefaultFontPath("fonts/Arkhip_font.ttf")
                 .setFontAttrId(R.attr.fontPath)
                 .build());
+
         setContentView(R.layout.activity_main);
 
         //initialize firebase

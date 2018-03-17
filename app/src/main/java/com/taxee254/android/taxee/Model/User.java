@@ -7,7 +7,8 @@ package com.taxee254.android.taxee.Model;
 public class User {
     private String email, password, name, phone;
 
-    public User() {
+    public User(){
+
     }
 
     public User(String email, String password, String name, String phone) {
